@@ -1,0 +1,10 @@
+12
+21
+22
+city
+jeep
+13
+31
+24
+civic
+car
